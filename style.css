@@ -9,5 +9,21 @@
 
 img {
     width: 33%;
-    
+}
+
+.container {
+    width: 70%;
+    position: relative;
+    left: 15%;
+    text-align: left;
+}
+
+.title-bottom {
+    font-size: 13px;
+    color: #606060;
+    padding: 0px;
+}
+
+.immagini {
+    width: 100%;
 }
