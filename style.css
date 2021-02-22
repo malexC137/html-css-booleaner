@@ -1,0 +1,13 @@
+#testata {
+    background-color: #5bb1e3;
+    width: 90%;
+    height: 100px;  
+    overflow: hidden;
+    position: relative;
+    left: 5%;
+}
+
+img {
+    width: 33%;
+    
+}
