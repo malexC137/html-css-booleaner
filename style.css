@@ -44,3 +44,27 @@ img {
 .tabella-azzurro {
     background-color: #a6d0f7;
 }
+
+#piedipagina {
+    width: 70%;
+    position: relative;
+    left: 15%;
+    text-align: left;
+    color: #606060;
+}
+
+#piedipagina .foto1 {
+    background-image: url('img/monitor.jpg');
+    text-align: left;
+    color: white;
+    width: 240px;
+    height: 150px;
+}
+
+#piedipagina .foto2 {
+    background-image: url('img/graph.jpg');
+    text-align: left;
+    color: white;
+    width: 240px;
+    height: 150px;
+}
