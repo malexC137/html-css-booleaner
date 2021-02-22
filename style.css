@@ -27,3 +27,20 @@ img {
 .immagini {
     width: 100%;
 }
+
+.immagini img {
+    max-width: 100%;
+}
+
+.tabella {
+    width: 100%;
+    padding-top: 30px;
+}
+
+.tabella-top {
+    background-color: #77b4ed;
+}
+
+.tabella-azzurro {
+    background-color: #a6d0f7;
+}
